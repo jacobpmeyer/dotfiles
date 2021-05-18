@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/Users/jacobmeyer/projects/vim-fundamentals/vim-nav-playground'
+let g:netrw_dirhist_9='/Users/jacobmeyer/projects/vim-fundamentals/vim-nav-playground/src'
+let g:netrw_dirhist_8='/Users/jacobmeyer/projects/vim-fundamentals/vim-nav-playground'
+let g:netrw_dirhist_7='/Users/jacobmeyer/projects/vim-fundamentals/vim-nav-playground/src'
+let g:netrw_dirhist_6='/Users/jacobmeyer/projects/vim-fundamentals/vim-nav-playground'
+let g:netrw_dirhist_5='/Users/jacobmeyer/.config/nvim'
+let g:netrw_dirhist_4='/Users/jacobmeyer/projects/vim-fundamentals/vim-nav-playground/src'
+let g:netrw_dirhist_3='/Users/jacobmeyer/projects/vim-fundamentals/vim-nav-playground'
+let g:netrw_dirhist_2='/Users/jacobmeyer/projects/vim-fundamentals/vim-nav-playground/src'
+let g:netrw_dirhist_1='/Users/jacobmeyer/projects/vim-fundamentals/vim-nav-playground'
