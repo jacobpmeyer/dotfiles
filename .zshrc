@@ -145,6 +145,9 @@ alias dmono="cd ~/drip/monolith"
 alias notes="cd ~/projects/notes"
 alias proj="cd ~/projects"
 
+# Kitty config file
+alias ktconf="nvim ~/.config/kitty/kitty.conf"
+
 # Path for foundation tools
 source /Users/jacobmeyer/.drv/share/foundation-tools/zshrc
 export PATH=$PATH:/Users/jacobmeyer/.drv/bin
